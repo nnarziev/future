@@ -1,0 +1,5 @@
+Bank Name		: NH Bank (농협은행, NONG HYUP BANK)
+Swift Code		: NACFKRSEXXX
+Account Number	: 301-0006-9956-71
+Account Holder	: Incheon National University (인천대학교)
+Bank Address	: NH Bank Incheon National University Branch #119 Academy-ro, Yeonsu-gu, Incheon, 406-772, R.O.Korea
